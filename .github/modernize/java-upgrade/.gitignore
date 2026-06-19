@@ -1,0 +1,15 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Secrets
+backend/src/main/resources/application.properties
